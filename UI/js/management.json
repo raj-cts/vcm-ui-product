@@ -1,0 +1,12 @@
+  {
+   "data" :
+    [{
+      "url": "images/ciofficer.png",
+      "name":"Heidi Adelman",
+      "designation":" Chief Investment Officer, Short Government Portfolio Manager",
+      "boxtextone": "Manager name",
+      "boxvalueone": "Senior Portfolio Manager",
+      "boxtexttwo": "Manager name",
+      "boxvaluetwo": "Senior Portfolio Manager"
+    }]
+  }

@@ -1,0 +1,31 @@
+[{
+    "name": "Victory Diversified Stock Fund",
+    "as_of": "01/31/2020",
+    "inception_date": "01/28/2013",
+    "latest_nav": 35,
+    "wk_change": "+0.35%",
+    "category": "Large Blend",
+    "morningStarGroupOverall": "1208",
+    "cusip": "92646A641",
+    "rating": "2",
+    "morningStar3year": {
+        "rating": 3,
+        "overall": 1208
+    },
+    "morningStar5year": {
+        "rating": 2,
+        "overall": 1056
+    },
+    "morningStar10year": {
+        "rating": 2,
+        "overall": 806
+    },
+    "benchmark": "",
+    "active_share": "",
+    "evestment_cat": "",
+    "strategy_assets": "",
+    "ticker": "VDSYX",
+    "classes": [
+        "Y"
+    ]
+}]

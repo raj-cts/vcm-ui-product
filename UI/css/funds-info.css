@@ -1,0 +1,69 @@
+.fundinfo {
+    border: 1px solid #E6E6E6;
+   width: 325px;
+    margin-top: 40px;
+}
+
+.row.fundinfo__row {
+    margin: 0px;
+    border-bottom: 1px solid #E6E6E6;
+}
+
+#fund-summary,
+#fund-details,
+#fund-yield,
+#fund-fees {
+    width: 325px;
+}
+
+#fund-summary .text-left,
+#fund-details .text-left,
+#fund-yield .text-left,
+#fund-fees .text-left {
+    text-align: left;
+    float: left;
+}
+
+#fund-summary .text-right,
+#fund-details .text-right,
+#fund-yield .text-right,
+#fund-fees .text-right {
+    text-align: right;
+}
+
+#fund-summary p,
+#fund-details p,
+#fund-yield p,
+#fund-fees p,
+#fund-summary a,
+#fund-details a,
+#fund-yield a,
+#fund-fees a {
+    margin: 0 0 18px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+strong.left.text-left {
+    font-weight: bold;
+}
+
+.blakHdr-greenBorder {
+    font-size: 18px;
+    line-height: 22px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #49494A;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-bottom: 2px solid #8BC105;
+}
+

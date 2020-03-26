@@ -1,0 +1,148 @@
+.row.fund-name,
+.row.fund-list {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+/* .fund-details {
+    padding-left: 15px;
+    padding-right: 15px;
+} */
+
+.row.fund-data-row {
+    margin-right: 0px;
+}
+.fund-ticker {
+    width: 64px;
+    height: 64px;
+    color: #fff;
+    background: #004A98;
+    font-size: 18px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding: 20px 5px;
+    margin-right: 10px;
+}
+
+span#fund-name {
+    font-size: 22px;
+    color: #486D90;
+    font-family: yorkten-slab-normal, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    word-break: break-word;
+    /* width: 265px; */
+    margin-top: 5px;
+}
+
+#ipfix {
+    display: none;
+}
+
+.row.fund-name {
+    height: 64px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+.fund-data-div div,
+.fund-data-div p {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    padding-bottom: 8px;
+}
+
+.fund-data .col-12.col-sm-4.col-lg-4 {
+    padding-top: 10px;
+    /* padding-left: 0px; */
+}
+
+.fund-description p {
+    font-size: 16px;
+    line-height: 19px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.fund-data-row {
+    background: #F7F7F7;
+    padding-bottom: 30px;
+}
+
+.fund-data {
+    padding-bottom: 25px;
+    padding-top: 15px;
+    border-bottom: 2px solid #E6E6E6;
+}
+
+.row.fund-description,
+.fund-buttons {
+    margin-top: 20px;
+}
+
+/* .row.fund-data,
+.row.fund-description {
+    margin-left: 0px;
+    margin-right: 0px;
+} */
+
+.fund-buttons .btn-primary {
+    padding: 18px;
+}
+
+.fund-data p {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: benton-sans, sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* .fund-data-div div {
+    margin-right: 80px;
+} */
+
+
+
+.pdf-link {
+    background: url(../images/icon__pdf.svg);
+    background-repeat: no-repeat;
+    background-position: left 3px;
+    padding-left: 30px;
+}
+
+.ext-link {
+    background: url(../images/icon__external-link.svg);
+    background-repeat: no-repeat;
+    background-position: left 3px;
+    padding-left: 30px;
+}
+@media screen and (min-width: 1025px) {
+	/* .fund-data-div {
+    display: flex;
+} */
+/* .fund-details {
+    padding-left: 0px;
+    padding-right: 0px;
+} */
+
+.fund-data .col-12.col-sm-4.col-lg-4 {
+    padding-top: 10px;
+    padding-left: 0px;
+}
+.fund-data-row {
+ padding-bottom: 0px; 
+}
+}
+
+
+
+
+
+
+
+

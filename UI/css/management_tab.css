@@ -1,0 +1,92 @@
+.management{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.management__heading{
+	font-family: benton-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+	font-size:18px;
+    line-height:22px;
+    margin-top: 38px;
+}
+ .management__txt,.management__txt p{
+	font-family: benton-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size:16px;
+    line-height:24px;
+    padding-top: 18px;
+} 
+.management__img ::after{
+	content: "";
+    border-left: 0px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 30px solid #FF671D;
+    position: absolute;
+    left: 0;
+    top: 15px;
+    z-index: 1;
+}
+.management__img{
+    position: relative;
+    padding-top: 15px;
+}
+.management .cnr-triangle-left-sm-blue::before{
+    border-top-color: #FF671D;
+}
+
+ .management .link-card .title, .link-card h4 {
+    font-weight: 700;
+    color:#49494A;
+ }
+ .management .link-card .desc {
+     line-height: 24px;
+ }
+.crds{
+    margin-top: 30px;
+    width:87%;
+}
+.cardone ,.cardtwo{
+    padding-left: 0;
+}
+.management .right--arrow::after {
+    background: #8BC105 url("../Images/rightArrow.png") 5px 6px no-repeat;
+} 
+.management .navg-arw-rv-center::after {
+    background: #8BC105 url("../Images/rightArrow.png") 5px 6px no-repeat;
+}
+.management .navg-arw-rv-center::after {
+    top:56%;
+}
+.management__para{
+    padding-bottom: 26px;
+}
+@media only screen and (min-width: 1025px) {
+.management{
+    padding-left: 0;
+    padding-right: 0;
+}
+.management-row{
+    display:flex;
+    padding-top: 20px;
+}
+.management__img{
+   padding-top: 0px;
+}
+.management__img--details {
+    padding-left: 32px;
+    padding-top: 4px;
+}
+.management__img ::after{
+    top:0;
+}
+.crds{
+    display:flex;
+    margin-top: 30px;
+    width: 68%;
+}
+.cardone {
+    padding-left: 0;
+}
+}
